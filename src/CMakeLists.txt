@@ -169,7 +169,7 @@ IF (WITH_DAEMON)
     daemon/daemonconfig.cpp 
     daemon/beanstalk.c 
     daemon/beanstalk.cc 
-)
+  )
 
   FIND_PACKAGE( CURL REQUIRED )
   FIND_PACKAGE( log4cplus REQUIRED )
